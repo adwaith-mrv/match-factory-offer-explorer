@@ -1,0 +1,22 @@
+level,result,timeLeftSeconds,coinsEarned,coinsSpent,spentOn,livesLeft,offerShown,offerType,offerPriceInr,eventOrPassUnlocked,Min,Secs,Max Time Limit,,
+1,win,297,0,0,none,,false,,,,4,57,5,,
+2,win,291,100,0,none,5,false,,,,4,51,5,,
+3,win,213,0,0,none,5,true,booster_pre_level_tutorial_use,,,3,33,4,Vaccum Booster,"Vaccums 3 of a kind, once per use"
+4,win,196,0,0,none,5,true,booster_in_level_locked,,,3,16,4,,
+5,win,198,0,0,none,5,true,booster_pre_level_tutorial_use,,,3,18,4,Spring Booster,"Springs back one item, clearing the bottom available slots per use"
+6,win,182,0,0,none,5,true,booster_in_level_locked,,,3,2,4,,
+7,win,143,0,0,none,5,true,booster_pre_level_tutorial_use,,,2,23,3:30,Fan Booster,Shuffles entire board to find hidden items
+8,win,170,0,0,none,5,true,booster_in_level_locked,,,2,50,3:30,,
+9,win,149,0,0,none,5,true,booster_pre_level_tutorial_use,,,2,29,3:30,Icegun,Stops the timer for 10 seconds
+10,win,187,0,0,none,5,true,booster_in_level_locked,,,3,7,3:30,,
+11,win,203,0,0,none,5,true,booster_in_level_unlocked_tutorial_use,,,3,23,3:30,Mega Firework,Starts the game by Destroying 9 junk items. 
+12,win,141,0,0,none,5,true,booster_in_level_unlocked_unused,,,2,21,3:30,,
+13,win,220,0,0,none,5,true,booster_in_level_unlocked_tutorial_use,,,3,40,3:45 + 0:30,Mega Sandglass,Start the game with extra 30 seconds
+14,win,123,0,0,none,5,true,booster_in_level_unlocked_unused,,,2,3,2:30,,Mentioned as Hard
+15,win,152,0,0,none,5,true,event,,"Key Challenge Event displayed, 1000 Coins prize (1499 INR, non-bundle version / 1950 INR, Mega Bundle version)",2,32,3:15,,"Key Challenge Event displayed, 1000 Coins (1499 INR, non-bundle version / 1950 INR, Mega Bundle version)"
+16,win,145,0,0,none,infinite,true,booster_in_level_unlocked_unused,,,2,25,3:15,1 Key collected,Unlimited Lives for 15 mins trigerred by key collection
+17,win,123,0,0,none,infinite,true,booster_in_level_unlocked_unused,,,2,3,3,4 Keys collected,"Firework - Sorting item, destroys 3 items"
+18,win,45,0,0,none,infinite,true,booster_in_level_unlocked_infinite_use,,,0,45,1:30,5 Keys collected,"Sandglass - Sorting item, stops time for 10s. Mega Firework unlimited for 15 mins."
+19,win,83,0,0,none,infinite,true,booster_chiefs_tool_unlocked_tutorial_use,,,1,23,2:30,2 Keys collected,"Chiefs tools unlocked, started with Mega Firework"
+20,win,78,0,0,none,5,true,booster_in_level_unlocked_infinite_use,,,1,18,2:30,2 Keys collected,Daily Bonus Introduced - access to 1 Free Spring?
+21,win,47,0,0,none,5,true,booster_in_level_unlocked_infinite_use,,,0,47,2:30,,2x Keys chance received for 15 mins after winning round
