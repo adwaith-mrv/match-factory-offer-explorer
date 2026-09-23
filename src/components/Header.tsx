@@ -6,7 +6,7 @@ interface HeaderProps {
 }
 
 // Replace with the actual portfolio Match Factory page URL before deploy.
-const PORTFOLIO_URL = "/";
+const PORTFOLIO_URL = "https://adwaith-mrv.github.io/offer-explorer/";
 
 export function Header({ levelCount }: HeaderProps) {
   const levelLabel =
